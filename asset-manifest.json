@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Turntable/static/js/main.c85b36e0.chunk.js",
+    "main.js.map": "/Turntable/static/js/main.c85b36e0.chunk.js.map",
+    "runtime-main.js": "/Turntable/static/js/runtime-main.ecf22548.js",
+    "runtime-main.js.map": "/Turntable/static/js/runtime-main.ecf22548.js.map",
+    "static/js/2.d471ba27.chunk.js": "/Turntable/static/js/2.d471ba27.chunk.js",
+    "static/js/2.d471ba27.chunk.js.map": "/Turntable/static/js/2.d471ba27.chunk.js.map",
+    "index.html": "/Turntable/index.html",
+    "precache-manifest.465f8052117d1a8afbad8caf4c987660.js": "/Turntable/precache-manifest.465f8052117d1a8afbad8caf4c987660.js",
+    "service-worker.js": "/Turntable/service-worker.js",
+    "static/js/2.d471ba27.chunk.js.LICENSE.txt": "/Turntable/static/js/2.d471ba27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecf22548.js",
+    "static/js/2.d471ba27.chunk.js",
+    "static/js/main.c85b36e0.chunk.js"
+  ]
+}
